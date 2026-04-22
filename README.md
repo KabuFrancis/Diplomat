@@ -1,6 +1,6 @@
 # Diplomat: The Intelligent Invoice Assistant
 
-**Diplomat **is a high-performance web application designed to automate the awkward process of chasing unpaid invoices with professional precision. It transforms a high-anxiety task into a silent, automated back-office operation.
+Diplomat is a high-performance web application designed to automate the awkward process of chasing unpaid invoices with professional precision. It transforms a high-anxiety task into a silent, automated back-office operation.
 
  Key Features
 
